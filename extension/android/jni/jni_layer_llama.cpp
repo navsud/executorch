@@ -15,9 +15,9 @@
 #include <unordered_map>
 #include <vector>
 
+#include <executorch/examples/mediatek/executor_runner/mtk_llama_runner.h>
 #include <executorch/examples/models/llama/runner/runner.h>
 #include <executorch/examples/models/llava/runner/llava_runner.h>
-#include <executorch/examples/mediatek/executor_runner/mtk_llama_runner.h>
 #include <executorch/extension/llm/runner/image.h>
 #include <executorch/runtime/platform/log.h>
 #include <executorch/runtime/platform/platform.h>
